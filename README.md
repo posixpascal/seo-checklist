@@ -2,7 +2,7 @@
 
 On-page SEO optimization list.
 
-- [ ] Install [Google Analytics](https://analytics.google.com/analytics/web/)
+- [X] Install [Google Analytics](https://analytics.google.com/analytics/web/)
 - [ ] Set Up Google [Search Console](https://www.google.com/webmasters/#?modal_active=none)
 - [ ] Check Google’s [Search Console](https://www.google.com/webmasters/#?modal_active=none) for crawl errors, duplicate content errors, missing titles and other technical errors
 - [ ] Spot-check redirect problems (specifically, 302 errors that should be 301s) [Browseo.net](http://www.browseo.net/)
@@ -12,7 +12,7 @@ On-page SEO optimization list.
 - [ ] Add your keyword to your title tag. Is your title tag compelling? [Title tag preview tool](https://moz.com/learn/seo/title-tag)
 - [ ] Add your keyword to your meta description. Is your meta description compelling?
 - [ ] Add your keyword to your H1 tag. Make sure to only use one H1 tag, and make sure it shows up in the document before H2, H3 etc.
-- [ ] Add crawlable text to your page
+- [ ] Add crawlable text to your page (pascal)
 - [ ] Use synonyms in your copy. [What synonyms means](https://moz.com/ugc/what-synonyms-mean-for-seo)
 - [ ] Use words discovered through latent semantic indexing in your copy. [LSIGraph](http://lsigraph.com/)
 - [ ] Add descriptive ALT tags and filenames to your pages
