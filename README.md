@@ -3,10 +3,10 @@
 On-page SEO optimization list.
 
 - [X] Install [Google Analytics](https://analytics.google.com/analytics/web/)
-- [ ] Set Up Google [Search Console](https://www.google.com/webmasters/#?modal_active=none)
-- [ ] Check Google’s [Search Console](https://www.google.com/webmasters/#?modal_active=none) for crawl errors, duplicate content errors, missing titles and other technical errors
-- [ ] Spot-check redirect problems (specifically, 302 errors that should be 301s) [Browseo.net](http://www.browseo.net/)
-- [ ] Look for broken links, errors, and crawl problems [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
+- [x] Set Up Google [Search Console](https://www.google.com/webmasters/#?modal_active=none)
+- [x] Check Google’s [Search Console](https://www.google.com/webmasters/#?modal_active=none) for crawl errors, duplicate content errors, missing titles and other technical errors
+- [x] Spot-check redirect problems (specifically, 302 errors that should be 301s) [Browseo.net](http://www.browseo.net/)
+- [x] Look for broken links, errors, and crawl problems [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/)
 - [ ] Perform keyword research [Adwords Keyword Planner](https://adwords.google.com/o/Targeting/Explorer?__c=1000000000&__u=1000000000&ideaRequestType=KEYWORD_IDEAS), [KWFinder](https://kwfinder.com/), [KewworldTool.io](https://keywordtool.io/), [SemRush](https://www.semrush.com/) 
 - [ ] Try to get your primary keyword into your page URL [Url best practices](https://moz.com/blog/15-seo-best-practices-for-structuring-urls)
 - [ ] Add your keyword to your title tag. Is your title tag compelling? [Title tag preview tool](https://moz.com/learn/seo/title-tag)
